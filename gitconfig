@@ -1,0 +1,5 @@
+[user]
+	name = Sho Tanaya
+	email = tanaya.shou@gmail.com
+[core]
+	editor = "/usr/bin/emacsclient -t" --alternate-editor /usr/bin/emacs
